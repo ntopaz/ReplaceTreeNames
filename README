@@ -1,0 +1,8 @@
+ReplaceTreeNames V1.0
+
+1) Select your tree file using the "Upload Tree" button.
+2) Select which features you want to include (Organism Name, Length, or both) - Must select atleast one
+3) Hit Rename Tree
+4) Enter your NCBI email address
+5) Wait for program to finish - resulting renamed tree will be saved to New_Tree.txt
+
