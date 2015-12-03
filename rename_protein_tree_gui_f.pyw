@@ -230,21 +230,6 @@ def main():
     window = myGUI(root)
     root.mainloop()
 
-    #if decision == "1":
-   #     Tree_analysis()
-   # if decision == "2":
-     #   createDB()
-   # if decision == "3":
-    #    ConnectDB()
-   # if decision == "4":
-    #    if db_name == None:
-      #      sys.stdout.write("Must connect to a database before modifying it")
-        #    raw_input()
-         #   main();
-       # else:
-        #    ModifyDB()
-    #if decision == "q":
-       # sys.exit()
 
 
 
